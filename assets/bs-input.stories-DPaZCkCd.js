@@ -1,4 +1,4 @@
-import{n as e,r as t}from"./rolldown-runtime-DkW27tQK.js";import{a as n,i as r}from"./iframe-GVjLUGEy.js";import{n as i,r as a,t as o}from"./stories-utils-DCocXmDI.js";var s=t({Default:()=>l,Disabled:()=>f,WithDescription:()=>u,WithError:()=>d,__namedExportsOrder:()=>p,default:()=>c}),c,l,u,d,f,p;function m(){return(m=e((()=>{r(),i(),c={title:`Components/bs-input`,parameters:{docs:{description:{component:o(`bs-input`)}}},render:e=>n`
+import{n as e,r as t}from"./rolldown-runtime-DkW27tQK.js";import{a as n,i as r}from"./iframe-B9Mpa5Rp.js";import{n as i,r as a,t as o}from"./stories-utils-CW0P0Irj.js";var s=t({Default:()=>l,Disabled:()=>f,WithDescription:()=>u,WithError:()=>d,__namedExportsOrder:()=>p,default:()=>c}),c,l,u,d,f,p;function m(){return(m=e((()=>{r(),i(),c={title:`Components/bs-input`,parameters:{docs:{description:{component:o(`bs-input`)}}},render:e=>n`
     <bs-input
       label=${e.label}
       placeholder=${e.placeholder}

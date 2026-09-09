@@ -1,4 +1,4 @@
-import{n as e,r as t}from"./rolldown-runtime-DkW27tQK.js";import{a as n,i as r}from"./iframe-GVjLUGEy.js";import{n as i,r as a,t as o}from"./stories-utils-DCocXmDI.js";var s=t({AllStates:()=>g,Default:()=>d,Disabled:()=>m,Generating:()=>p,Human:()=>f,Recording:()=>h,__namedExportsOrder:()=>_,default:()=>u}),c,l,u,d,f,p,m,h,g,_;function v(){return(v=e((()=>{r(),i(),c=[`ai`,`human`],l=[`idle`,`generating`,`disabled`,`recording`],u={title:`Genie AI Components/bs-composer`,parameters:{docs:{description:{component:o(`bs-composer`)}}},render:e=>n`
+import{n as e,r as t}from"./rolldown-runtime-DkW27tQK.js";import{a as n,i as r}from"./iframe-B9Mpa5Rp.js";import{n as i,r as a,t as o}from"./stories-utils-CW0P0Irj.js";var s=t({AllStates:()=>g,Default:()=>d,Disabled:()=>m,Generating:()=>p,Human:()=>f,Recording:()=>h,__namedExportsOrder:()=>_,default:()=>u}),c,l,u,d,f,p,m,h,g,_;function v(){return(v=e((()=>{r(),i(),c=[`ai`,`human`],l=[`idle`,`generating`,`disabled`,`recording`],u={title:`Genie AI Components/bs-composer`,parameters:{docs:{description:{component:o(`bs-composer`)}}},render:e=>n`
     <bs-composer
       variant=${e.variant}
       state=${e.state}

@@ -1,4 +1,4 @@
-import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{N as t,P as n,c as r,n as i,s as a,x as o}from"./blocks-Dao9KPCn.js";import{a as s,i as c,n as l,r as u,t as d}from"./bs-data-table.stories-2n9lGvcM.js";function f(e){let t={a:`a`,code:`code`,h1:`h1`,h2:`h2`,li:`li`,p:`p`,strong:`strong`,ul:`ul`,...n(),...e.components};return(0,m.jsxs)(m.Fragment,{children:[(0,m.jsx)(a,{of:c}),`
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{N as t,P as n,c as r,n as i,s as a,x as o}from"./blocks-Dao9KPCn.js";import{a as s,i as c,n as l,r as u,t as d}from"./bs-data-table.stories-D2n0xx3W.js";function f(e){let t={a:`a`,code:`code`,h1:`h1`,h2:`h2`,li:`li`,p:`p`,strong:`strong`,ul:`ul`,...n(),...e.components};return(0,m.jsxs)(m.Fragment,{children:[(0,m.jsx)(a,{of:c}),`
 `,(0,m.jsx)(t.h1,{id:`data-table`,children:`Data Table`}),`
 `,(0,m.jsx)(t.h2,{id:`table-of-contents`,children:`Table of Contents`}),`
 `,(0,m.jsxs)(t.ul,{children:[`
